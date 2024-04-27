@@ -1,5 +1,9 @@
 # BootStrap_Projects
 
+Dashboard:
+
+![Screenshot 2024-04-27 115519](https://github.com/Binsal/BootStrap_Projects/assets/96328531/8041cf6d-3e4a-4b87-abc0-ea51c960a8a9)
+
 Employee Mangement System :
 
 ![Screenshot 2024-04-27 094928](https://github.com/Binsal/BootStrap_Projects/assets/96328531/b98230ca-5e1f-4fdf-8175-20ec7085cd1f)
